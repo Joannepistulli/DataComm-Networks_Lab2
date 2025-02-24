@@ -1,4 +1,4 @@
-# nyu-cs2262-001-fa20
-CSCI-UA.0201-005 - Fall 2020
+# Spring 2024 Lab 2
+cloned/forked
 
 Central repository for managing class activities and course information
